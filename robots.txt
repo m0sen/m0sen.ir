@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /images/
+Disallow: /css/
+Disallow: /cgi-bin
+
+Sitemap: https://m0sen.ir/sitemap.xml
