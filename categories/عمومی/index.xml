@@ -1,3 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet type="text/xsl" media="screen" href="/css/feed.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>عمومی on m0sen</title><link>https://m0sen.ir/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C.html</link><description>آخرین پست های محسن شایان</description><language>fa-IR</language><webMaster>info@m0sen.ir (m0sen)</webMaster><copyright>©2023</copyright><lastBuildDate>Fri, 06 Jan 2023 22:12:21 +0000</lastBuildDate><atom:link href="https://m0sen.ir/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>اولین پست بلاگ</title><link>https://m0sen.ir/posts/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF.html</link><pubDate>Fri, 06 Jan 2023 22:12:21 +0000</pubDate><guid>https://m0sen.ir/posts/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF.html</guid><description>email: info@m0sen.ir
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet type="text/xsl" media="screen" href="/css/feed.xsl" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>عمومی on m0sen</title>
+    <link>https://m0sen.ir/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C.html</link>
+    <description>آخرین پست های محسن شایان</description>
+    <language>fa-IR</language>
+    <webMaster>info@m0sen.ir (m0sen)</webMaster>
+    <copyright>©2023</copyright>
+    <lastBuildDate>Fri, 06 Jan 2023 22:12:21 +0000</lastBuildDate><atom:link href="https://m0sen.ir/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>اولین پست بلاگ</title>
+      <link>https://m0sen.ir/posts/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF.html</link>
+      <pubDate>Fri, 06 Jan 2023 22:12:21 +0000</pubDate>
+      
+      <guid>https://m0sen.ir/posts/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA-%D8%A8%D9%84%D8%A7%DA%AF.html</guid>
+      <description>email: info@m0sen.ir
 👋 نسخه آزمایشی بلاگ 👋
-🔗 دامنه های این بلاگ 🔗▪️ m0sen.</description></item></channel></rss>
+🔗 دامنه های این بلاگ 🔗▪️ m0sen.</description>
+    </item>
+    
+  </channel>
+</rss>
